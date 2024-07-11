@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Quad_Equation_Solver</string>
+    <string name="constant_c" tools:ignore="TypographyOther">Constant (c)</string>
+    <string name="coefficient_b">Co-efficient of x (b)</string>
+    <string name="coefficient_a">Co-efficient of x2 (a)</string>
+    <string name="calculate">Calculate</string>
+    <string name="natureOfRoots">Nature Of Roots: %1$s</string>
+    <string name="determinant">Determinant: %1$s</string>
+    <string name="roots">Roots: %1$s, %2$s</string>
+</resources>
